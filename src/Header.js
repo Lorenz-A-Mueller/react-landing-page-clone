@@ -1,6 +1,5 @@
 /** @jsxImportSource @emotion/react */
 import { css } from '@emotion/react';
-import { prependOnceListener } from 'process';
 import { useState } from 'react';
 import avocode_logo from './avocode_logo.png';
 import lock from './lock.svg';

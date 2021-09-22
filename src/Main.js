@@ -1,6 +1,4 @@
 /** @jsxImportSource @emotion/react */
-
-import { useState } from 'react';
 import arm from './arm.svg';
 import avocado from './avocado.png';
 import butterfly from './butterfly.svg';
